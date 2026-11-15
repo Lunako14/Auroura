@@ -1,0 +1,14 @@
+[gd_scene format=3 uid="uid://bgbc606sa83ki"]
+
+[ext_resource type="Texture2D" uid="uid://tilbpeunvmnq" path="res://gettyimages-1447471637-640x640.jpg" id="1_lm0ep"]
+
+[node name="End" type="Node2D" unique_id=1371877750]
+
+[node name="Gettyimages1447471637640x640" type="Sprite2D" parent="." unique_id=1568062099]
+position = Vector2(594, -330)
+scale = Vector2(1.5286459, 1.2523148)
+texture = ExtResource("1_lm0ep")
+
+[node name="Camera2D" type="Camera2D" parent="." unique_id=1404588566]
+position = Vector2(590, -371)
+zoom = Vector2(1.5, 1.5)
